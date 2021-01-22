@@ -1,0 +1,26 @@
+01 - Faça um programa que print "Olá Mundo!"
+02 - Faça um programa que peça um numero e então mostre a mensagem 'O número informado foi [número]'
+03 - Faça um programa que peça dois números e imprima a soma
+04 - Faça um programa que peça as 4 notas bimestrais e mostre a média
+05 - Faça um programa que converta metros em centímetros
+06 - Faça um programa que peça o raio de um círculo, calcule e mostre a sua área.
+07 - Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário
+08 - Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no mês referido
+09 - Faça um programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+10 - Faça um program que peça a temperatura em graus Ceslsius, transforme e mostre em graus Farenheit
+11 - Faça um programa que peça 2 números inteiros e um número real.
+Calcule e mostre:
+    a-) o produto do dobro do primeiro com a metade do segundo.
+    b-) a soma do triplo do primeiro com o terceiro.
+    c-) o terceiro elevado ao cubo.
+
+12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritimo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*atura)-58
+13 - Faça um programa que pergunte quanto você ganha por hora e o seu número de horas trabalhadas no mês. Calcule e mostre seu total do seu salário no referido mes, sabendo que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
+    -salário bruto
+    -quanto pagou ao sindicato
+    -salário líquido
+    -calcule os descontos e o salário liquido, conforme a tabela abaixo.
+    Salario liquido = Salario bruto - IR - INSS - Sindicato
+14 - Faça um programa que peça o tamanho de um arquivo para download (em Mb) e a velocidade de um link de internet (em Mbps), calucle e informe o tempo aproximado de download do arquivo isando este link (em minutos).
+
+
